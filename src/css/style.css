@@ -1,0 +1,24 @@
+.fab {
+  transition: 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.fa-linkedin {
+  color: #ffa500;
+  font-size: 40px;
+}
+
+.fa-linkedin:hover {
+  color: #a9a9a9;
+  transform: scale(1.06);
+}
+
+.fa-github {
+  color: #00bfff;
+  font-size: 30px;
+}
+
+.fa-github:hover {
+  color: #b4d3b2;
+  transform: scale(1.04);
+}
